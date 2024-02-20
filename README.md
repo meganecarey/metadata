@@ -4,7 +4,7 @@ _UNDER DEVELOPMENT_
 Metadata template for genomic surveillance of bacterial pathogens for vaccine and AMR purposes
 
 ## Rationale
-Contextual metadata is crucial for effective genomic surveillance in public health as it provides valuable information about the
+Contextual metadata are crucial for effective genomic surveillance in public health as it provides valuable information about the
 samples being analyzed, and facilitates aggregation of data from multiple sources (routine surveillance, research projects) to
 identify broader trends across time and geography. In the case of bacterial pathogens, there are templates available for surveillance
 and outbreak investigation for foodborne pathogens (e.g. the One Health Enterics template), but no consensus on fields of importance
